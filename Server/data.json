@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Hazem",
+            "age": 32,
+            "track": "Frontend",
+            "email": "ahmed@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Ahmed",
+            "age": 32,
+            "track": "Backend",
+            "email": "ahmed@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Yasser",
+            "age": 32,
+            "track": "Backend",
+            "email": "ahmed@gmail.com"
+        }
+    ]
+}
